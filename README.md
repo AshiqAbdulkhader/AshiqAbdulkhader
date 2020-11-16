@@ -15,7 +15,7 @@
 ### 🤔 I’m looking for help with ...
 - Machine Learning
 - Algorithms
-- 
+ 
 
 ### 📫 How to reach me: ...
 [![Linkedin: Ashiq](https://img.shields.io/badge/-AshiqAbdulkhader-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammed-ashiq-abdul-khader/)](https://www.linkedin.com/in/muhammed-ashiq-abdul-khader/)
@@ -24,3 +24,8 @@
 
 ![Ashiq's github stats](https://github-readme-stats.vercel.app/api?username=AshiqAbdulkhader&count_private=false)
 
+### Languages
+
+[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+[![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
+![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
