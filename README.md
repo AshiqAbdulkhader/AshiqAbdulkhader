@@ -18,7 +18,7 @@
 - 
 
 ### 📫 How to reach me: ...
-[![Linkedin: Ashiq](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammed-ashiq-abdul-khader/)](https://www.linkedin.com/in/muhammed-ashiq-abdul-khader/)
+[![Linkedin: Ashiq](https://img.shields.io/badge/-AshiqAbdulkhader-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammed-ashiq-abdul-khader/)](https://www.linkedin.com/in/muhammed-ashiq-abdul-khader/)
 [![Twitter: Ashiq](https://img.shields.io/twitter/follow/__Ashiq__?style=social)](https://twitter.com/__Ashiq__)
 [![GitHub Ashiq](https://img.shields.io/github/followers/AshiqAbdulkhader?label=follow&style=social)](https://github.com/AshiqAbdulkhader)
 
