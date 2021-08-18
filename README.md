@@ -25,7 +25,6 @@
 <a href="https://www.linkedin.com/in/muhammed-ashiq-abdul-khader/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://twitter.com/__Ashiq__"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="mailto:ashiqabdulkhader@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-[![GitHub Ashiq](https://img.shields.io/github/followers/AshiqAbdulkhader?label=follow&style=social)](https://github.com/AshiqAbdulkhader)
 </p>
  
  
