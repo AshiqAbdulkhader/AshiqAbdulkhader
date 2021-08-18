@@ -27,10 +27,6 @@
 </p>
 <br/>
 
-<p>
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/dataonatangent"/>
-</p>
-
 ### 📫 How to reach me: ...
 [![Gmail Badge](https://img.shields.io/badge/-ashiqabdulkhader@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ashiqabdulkhader@gmail.com "Connect via Email")
 [![Linkedin: Ashiq](https://img.shields.io/badge/-AshiqAbdulkhader-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammed-ashiq-abdul-khader/)](https://www.linkedin.com/in/muhammed-ashiq-abdul-khader/)
