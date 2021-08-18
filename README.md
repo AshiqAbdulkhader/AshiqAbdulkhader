@@ -10,8 +10,7 @@
 
 ### 👯 I’m looking to collaborate on ...
 - Robotics Stuff
-- Machine Learning Projects
-- 
+- ML/DL Projects
 - Anything that sounds cool
 
 ### 🤔 I’m looking for help with ...
@@ -31,6 +30,4 @@
 [![Linkedin: Ashiq](https://img.shields.io/badge/-AshiqAbdulkhader-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammed-ashiq-abdul-khader/)](https://www.linkedin.com/in/muhammed-ashiq-abdul-khader/)
 [![Twitter: Ashiq](https://img.shields.io/twitter/follow/__Ashiq__?style=social)](https://twitter.com/__Ashiq__)
 [![GitHub Ashiq](https://img.shields.io/github/followers/AshiqAbdulkhader?label=follow&style=social)](https://github.com/AshiqAbdulkhader)
-
-![Ashiq's github stats](https://github-readme-stats.vercel.app/api?username=AshiqAbdulkhader&count_private=false)
 
