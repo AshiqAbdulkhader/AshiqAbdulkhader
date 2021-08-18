@@ -18,12 +18,18 @@
 - Algorithms
 - Internships
  
-<hr>
-<p align="center">
-<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshiqAbdulkhader&show_icons=true&locale=en&layout=compact" alt="AshiqAbdulKhader" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshiqAbdulkhader&show_icons=true&locale=en" alt="AshiqAbdulkhader" width="410" /></p>
-<hr>
+<p>
+
+<a align= "center" href="https://github.com/dataonatangent">
+  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=AshiqAbdulkhader&theme=cobalt&show_icons=true&count_private=true" />
+  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+
+</p>
+<br/>
+
+<p>
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/dataonatangent"/>
+</p>
 
 ### 📫 How to reach me: ...
 [![Gmail Badge](https://img.shields.io/badge/-ashiqabdulkhader@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ashiqabdulkhader@gmail.com "Connect via Email")
