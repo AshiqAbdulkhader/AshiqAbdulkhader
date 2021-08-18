@@ -18,6 +18,18 @@
 - Algorithms
 - Internships
  
+ <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/muhammed-ashiq-abdul-khader/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://twitter.com/__Ashiq__"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="mailto:ashiqabdulkhader@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+[![GitHub Ashiq](https://img.shields.io/github/followers/AshiqAbdulkhader?label=follow&style=social)](https://github.com/AshiqAbdulkhader)
+</p>
+ 
+ 
+ 
 <p>
 
 <a align= "center" href="https://github.com/dataonatangent">
@@ -26,10 +38,3 @@
 
 </p>
 <br/>
-
-### 📫 How to reach me: ...
-[![Gmail Badge](https://img.shields.io/badge/-ashiqabdulkhader@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ashiqabdulkhader@gmail.com "Connect via Email")
-[![Linkedin: Ashiq](https://img.shields.io/badge/-AshiqAbdulkhader-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammed-ashiq-abdul-khader/)](https://www.linkedin.com/in/muhammed-ashiq-abdul-khader/)
-[![Twitter: Ashiq](https://img.shields.io/twitter/follow/__Ashiq__?style=social)](https://twitter.com/__Ashiq__)
-[![GitHub Ashiq](https://img.shields.io/github/followers/AshiqAbdulkhader?label=follow&style=social)](https://github.com/AshiqAbdulkhader)
-
