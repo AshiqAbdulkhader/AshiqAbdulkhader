@@ -29,8 +29,6 @@
 <a href="mailto:ashiqabdulkhader@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
  
-![visitors](https://komarev.com/ghpvc/?username=AshiqAbdulkhader&style=flat-square&label=Visitors&color=blue)
- 
 <p>
 
 <a align= "center" href="https://github.com/dataonatangent">
