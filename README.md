@@ -6,7 +6,6 @@
 ### 🌱 I’m currently learning ...
 - Machine Learning
 - Computer Vision
-- Computer Vision
 - IOT
 - Trying out new Languages
 
