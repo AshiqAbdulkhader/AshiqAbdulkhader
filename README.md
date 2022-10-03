@@ -18,6 +18,8 @@
 - Machine Learning
 - Algorithms
 - Internships
+
+ [![@rphi's Holopin board](https://holopin.io/api/user/board?user=ashiqabdulkhader)](https://holopin.io/@ashiqabdulkhader)
  
  <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 
