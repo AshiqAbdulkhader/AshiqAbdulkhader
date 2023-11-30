@@ -14,10 +14,6 @@
 - ML/DL Projects
 - Anything that sounds cool
 
-### 🤔 I’m looking for help with ...
-- Machine Learning
-- Algorithms
-- Internships
 
  [![@rphi's Holopin board](https://holopin.io/api/user/board?user=ashiqabdulkhader)](https://holopin.io/@ashiqabdulkhader)
  
