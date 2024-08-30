@@ -3,16 +3,7 @@
 
 <h3 align="center" style="color:yellow;" >About Me</h3>
 
-### 🌱 I’m currently learning ...
-- Machine Learning
-- Computer Vision
-- IOT
-- Trying out new Languages
-
-### 👯 I’m looking to collaborate on ...
-- Robotics Stuff
-- ML/DL Projects
-- Anything that sounds cool
+# I AM HIM
 
 
  [![@rphi's Holopin board](https://holopin.io/api/user/board?user=ashiqabdulkhader)](https://holopin.io/@ashiqabdulkhader)
